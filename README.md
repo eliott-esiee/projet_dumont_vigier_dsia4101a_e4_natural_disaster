@@ -18,7 +18,7 @@ Avant de commencer, assurez-vous d'avoir :
 2. **Naviguer dans le dossier du projet** :
 
    ```
-   cd projet_dumont_vigier_dsia4101a_e4_natural_disaster
+   cd projet_dumont_vigier_dsia4101a_e4_natural_disaster-master
    ```
 
 
