@@ -1,0 +1,87 @@
+/* Style pour le corps entier */
+body, .dash-content * {
+    background-color: rgb(235, 238, 241);  /* Couleur sombre */
+    font-family: 'Calibri', sans-serif !important;  /* Utilisation de la police Montserrat */
+    color: rgb(235, 238, 241)  !important;  /* Tous les textes seront en blanc */
+}
+
+/* Style pour le menu de navigation */
+.bg-dark {
+    background-color: rgb(51, 87, 128) !important;
+}
+
+.text-light {
+    color: #ECF0F1 !important;
+}
+
+.p-3 {
+    padding: 1rem !important;
+}
+
+.mb-4 {
+    margin-bottom: 1.5rem !important;
+}
+.marge_top {
+    margin-top: 1.5rem !important;
+}
+.shadow-2 {
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.bg-secondary {
+    background-color: rgb(235, 238, 241) !important;
+}
+.color_fond {
+    background-color: #b9cfe4 !important;
+}
+.couleur_titre {
+    color : rgb(245, 233, 233) !important;
+}
+
+.description_color {
+    color :black;
+}
+
+.subtitle_color {
+    color :black !important;
+}
+
+.sidebar {
+    height: 100vh;
+    overflow-y: auto; /* Ajoute un défilement vertical si nécessaire */
+}
+
+/* Style pour les liens du menu de navigation */
+.sidebar a {
+    color: rgb(245, 233, 233) !important;  /* Couleur de texte blanc pour les liens */
+}
+
+.sidebar a:hover {
+    color: #1abcbc !important;  /* Couleur de texte lors du survol */
+}
+
+
+/* Supprimez les gouttières */
+.row > .col {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+/* Style pour le curseur RangeSlider */
+.RangeSlider .rc-slider-track {
+    background-color: #1aa4bc !important;  /* Couleur de la barre sélectionnée */
+}
+.RangeSlider .rc-slider-dot {
+    border-color: rgb(235, 238, 241) !important;  /* Couleur de la bordure des points sous le curseur */
+}
+
+.RangeSlider .rc-slider-dot-active {
+    border-color: black !important;  /* Couleur de la bordure des points actifs sous le curseur */
+    Background-color: black !important;
+}
+
+.RangeSlider .rc-slider-handle {
+    border: solid 1px #635c5c !important;  /* Couleur de la bordure du curseur */
+    background-color: #bbb2b2 !important;  /* Couleur de fond du curseur */
+}
+

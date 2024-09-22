@@ -1,0 +1,13 @@
+pandas
+geopandas
+seaborn
+random
+numpy
+dash
+dash_bootstrap_components
+dash.dependencies
+folium
+plotly
+plotly_express
+plotly.subplots
+plotly.graph_objects
